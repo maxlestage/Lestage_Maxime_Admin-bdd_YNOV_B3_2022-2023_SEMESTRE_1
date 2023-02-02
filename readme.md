@@ -47,7 +47,7 @@ NB FAIRE UNE VUE ET UNE VUE MATÉRIALISÉE
 
 # Garage Auto
 
-J'ai choisi un projet autour d'un "Garage Automobile", le garage doit gérer les entrées et les sorties des véhicules.
+## J'ai choisi un projet autour d'un "Garage Automobile", le garage doit gérer les entrées et les sorties des véhicules.
 
 En tant que Patron (ADMIN), il doit avoir accés à toutes les tables afin de vérifier s'il le souhaite les voiture qui sont toujours en attente de réparation, il peut le faire grace à la date d'entrée du véhicule. Il peut également voir si le client à payer.
 
@@ -63,7 +63,7 @@ La Secretaire n'a pas le droit de supprimer des éléments.
 
 ---
 
-Retour et Avis sur le cours :
+## Retour et Avis sur le cours :
 
 Bien que l'encadrement et les compétences de l'intervenant soit bonnes, je regrette la vitesse à laquelle on a survolé les choses ainsi que les conditions de déroulement de certains cours en distanciel ou interrompu sur une grande période.
 Problème d'organisation et de priorité dans les agendas probablement.
