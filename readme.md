@@ -58,6 +58,9 @@ J'aurais aimé mettre en place un système d'encryption pour les données sensib
 Les Méchaniciens en tant que EMPLOYEE, peuvent consulter les dates d'entrées des véhicules afin de prendre un véhicule en attente de réparation.
 Les Méchaniciens, peuvent renseigner une date de début de réparation et une date de fin de réparation.
 
+La Secretaire en tant que SECRETARY a la possibilité de consulté, insérer des données et les mettre à jour.
+La Secretaire n'a pas le droit de supprimer des éléments.
+
 ---
 
 Retour et Avis sur le cours :
